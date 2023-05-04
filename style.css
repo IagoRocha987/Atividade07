@@ -1,0 +1,32 @@
+
+.frase1{
+    font-family: 'Konkhmer Sleokchher', cursive;
+}
+
+.frase2{
+    font-size: medium;
+}
+
+.frase3{
+    font-style: italic;
+}
+
+.frase4{
+    font-weight: 500;
+}
+
+.frase5{
+    color: rgb(250, 17, 17);
+}
+
+.frase6{
+    text-align: center;
+}
+
+.frase7{
+    text-decoration: overline;
+}
+
+.frase8{
+    text-transform:uppercase;
+}
